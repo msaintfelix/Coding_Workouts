@@ -1,6 +1,7 @@
 .DS_Store
 .idea/
 .ipynb_checkpoints/
+my_model.h5
 
 ### Python template
 # Byte-compiled / optimized / DLL files
