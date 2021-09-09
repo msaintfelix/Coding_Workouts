@@ -1,5 +1,6 @@
 .DS_Store
 .idea/
+.ipynb_checkpoints/
 
 ### Python template
 # Byte-compiled / optimized / DLL files
